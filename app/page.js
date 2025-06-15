@@ -94,7 +94,7 @@ const MoviesPage = () => {
   };
 
   return (
-    <div className='bg-neutral-50 min-h-screen py-10'>
+    <div className='bg-neutral-50 min-h-screen py-10 pt-20'>
       <div className='container max-w-6xl mx-auto md:px-0 px-6'>
         <div className='flex items-center gap-2 pb-6'>
             <div className="relative">
